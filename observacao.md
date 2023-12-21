@@ -1,0 +1,1 @@
+Observação: Eu ajustei a regra “Se XP for menor do que 1.000 = Ferro” para “Se XP for menor igual a 1.000 = Ferro”, porque a regra seguinte diz que “Se XP for entre 1.001 e 2.000 = Bronze”, sendo assim a quantidade de XP equivalente ao número 1.000 ficaria de fora.
